@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "user": "cartoonnetworkbrasil",
+    "location": "",
+    "avatar": "/images/avatars/cartoon.jpg",
+    "image": "/images/posts/gravity falls.jpg",
+    "alt": "Gravity falls",
+    "likes": "1289",
+    "caption": "E se os mistérios de Gravity Falls fossem mais reais do que parecem? 🔍 Existem pistas escondidas na animação que você provavelmente deixou passar..."
+  },
+  {
+    "id": 2,
+    "user": "laika studios",
+    "location": "",
+    "avatar": "/images/avatars/laika.jpg",
+    "image": "/images/posts/LAIKA Christmas.jpg",
+    "alt": "Natal também pode ser estranho… 🎄✨ Descubra como a LAIKA transforma bonecos, cenários e milhares de movimentos em magia quadro a quadro.",
+    "likes": "3435",
+    "caption": "Natal também pode ser estranho… 🎄✨ Descubra como a LAIKA transforma bonecos, cenários e milhares de movimentos em magia quadro a quadro"
+  },
+  {
+    "id": 3,
+    "user": "studio ghibli",
+    "location": "",
+    "avatar": "/images/avatars/studio glib.jpg",
+    "image": "/images/posts/Ponyo.jpg",
+    "alt": "capa de ponyo",
+    "likes": "8195345",
+    "caption": "O oceano de Ponyo parece ter vida própria! 🌊 Mas você sabia que a animação das ondas foi pensada para transmitir emoções e movimento?"
+  },
+ 
+  {
+    "id": 4,
+    "user": "netflixbrasil",
+    "location": "",
+    "avatar": "/images/avatars/netflix.jpg",
+    "image": "/images/posts/cyberpunk.jpg",
+    "alt": "capa da segunda temporada de cyberpunk",
+    "likes": "7112",
+    "caption": "Night City esconde muito mais do que neon e caos. 🌆 Conheça os detalhes visuais e as referências que ajudam a construir o universo de Cyberpunk."
+  },
+  {
+    "id": 5,
+    "user": "nickelodeon",
+    "location": "",
+    "avatar": "/images/avatars/nickelodeon.jpg",
+    "image": "/images/posts/avatar.jpg",
+    "alt": "capa da serie avatar",
+    "likes": "1743",
+    "caption": "As dobras de Avatar não surgiram do nada! 🌪️ Cada estilo de combate tem inspirações em artes marciais reais. Você reconhece alguma?"
+  },
+   {
+    "id": 6,
+    "user": "marvelbrasil",
+    "location": "",
+    "avatar": "/images/avatars/marvel.webp",
+    "image": "/images/posts/aranha.jpg",
+    "alt": "ilustração do filme aranhaverso",
+    "likes": "219",
+    "caption": "Por que Aranhaverso parece uma HQ em movimento? 🕷️ A resposta está nos efeitos, nas texturas e nas técnicas de animação que quebraram padrões."
+  }
+]
