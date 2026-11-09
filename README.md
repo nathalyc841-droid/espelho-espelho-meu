@@ -14,7 +14,7 @@ Interface responsiva adaptada para dispositivos móveis.
 ![Versão Mobile](/espelho-espelho-meu-main/telas/mobile.jpeg)
 
 ### 3. Funcionalidades de interação
-Demonstração das funções de curtir e comentar publicações.
+Demonstração das funções de curtir, salvar e comentar publicações.
 
 ![Curtir e comentar](/espelho-espelho-meu-main/telas/funcionalidades.jpeg)
 
